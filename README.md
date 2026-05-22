@@ -72,9 +72,9 @@
       <p>Schedule automatic RDP lockouts to harden remote-access windows. Designed for sysadmins who want zero-config defense-in-depth.</p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/ori-halevi/taskbar-color-change-by-lang">🎨 taskbar-color-change-by-lang</a></h4>
-      <p><sub><strong>Quality-of-life · Python</strong></sub></p>
-      <p>Toggles the Windows taskbar color when the keyboard layout changes — never accidentally type Hebrew into your password again.</p>
+      <h4><a href="https://github.com/ori-halevi/Windows-Sandbox-Tools">📦 Windows-Sandbox-Tools</a></h4>
+      <p><sub><strong>Automation · PowerShell</strong></sub></p>
+      <p>A major rewrite of ThioJoe's Sandbox toolkit — drop two files on your Desktop, double-click, and get a fully configured Windows Sandbox with themes, Winget, VC Redist & editors auto-installed.</p>
     </td>
   </tr>
   <tr>
